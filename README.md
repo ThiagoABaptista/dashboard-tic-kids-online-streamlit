@@ -36,5 +36,18 @@ Compreender como o comportamento digital infantojuvenil evoluiu no Brasil exige 
 
 1. **Clone o repositório:**
    ```bash
-   git clone [[[https://github.com/ThiagoABaptista/dashboard-tic-kids-online-streamlit.git](https://github.com/ThiagoABaptista/dashboard-tic-kids-online-streamlit.git)]](https://github.com/ThiagoABaptista/dashboard-tic-kids-online-streamlit.git)
+   git clone https://github.com/ThiagoABaptista/dashboard-tic-kids-online-streamlit.git
    cd dashboard-tic-kids-online-streamlit
+2. **Crie e ative um ambiente virtual:**
+    ```bash
+   python -m venv .venv
+   # Windows (PowerShell):
+   .venv\Scripts\Activate.ps1
+   # Linux/macOS:
+   source .venv/bin/activate
+3. **Instale as dependências:**
+    ```bash
+   pip install -r requirements.txt
+4. **Execute a aplicação:**
+   ```bash
+   streamlit run app.py
