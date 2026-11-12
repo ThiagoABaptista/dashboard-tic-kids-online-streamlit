@@ -2,7 +2,7 @@
 
 Aplicação web interativa desenvolvida em Python e Streamlit para explorar a evolução histórica dos hábitos de comunicação e uso de redes sociais por crianças e adolescentes brasileiros (9 a 17 anos), com base nos dados oficiais do **Cetic.br / NIC.br**.
 
-🔗 **Acesse o Dashboard Online:** [Link do Streamlit Community Cloud]
+🔗 **Acesse o Dashboard Online:** [Link do Streamlit Community Cloud](https://dashboard-tic-kids-online-app-cd8xqhgbxmr8g2yqwyvaux.streamlit.app/)
 
 ---
 
